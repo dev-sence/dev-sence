@@ -1,11 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=200&section=header&text=Hi%20There!%20I'm%20Sence&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<p align="center">
-  <a href="https://sence.dev"><img src="https://img.shields.io/badge/Website-sence.dev-7c3aed?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:op@gwangdeok.gen.hs.kr"><img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dev-sence&color=7c3aed&style=flat-square&label=Profile+Views"/>
-</p>
-
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
